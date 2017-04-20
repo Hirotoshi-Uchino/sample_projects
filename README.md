@@ -1,13 +1,13 @@
 # scraping_samples
 
 ## Usage 
-get html data of NPB page in Yahoo
+1. get html data of NPB page in Yahoo
 
 `$ python urlopen_encoding.py > dp.html`
 
-output NPB teams
+2. output NPB teams
 
-$ python npb_tname_scrape.py
+`$ python npb_tname_scrape.py`
 
 ## References
 ・Python クローリング&スクレイピング
