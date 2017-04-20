@@ -3,7 +3,7 @@
 ## Usage 
 get html data of NPB page in Yahoo
 
-'$ python urlopen_encoding.py > dp.html'
+`$ python urlopen_encoding.py > dp.html`
 
 output NPB teams
 
